@@ -4,6 +4,9 @@
 !/.config/nvim
 /.config/nvim/*
 !/.config/nvim/init.vim
+!/.oh-my-zsh
+/.oh-my-zsh/*
+!/.oh-my-zsh/oh-my-zsh.sh
 !.zshrc
 !.bashrc
 !.gitignore

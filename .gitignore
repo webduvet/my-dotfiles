@@ -1,0 +1,12 @@
+/*
+!/.config
+/.config/*
+!/.config/nvim
+/.config/nvim/*
+!/.config/nvim/init.vim
+!.zshrc
+!.bashrc
+!.gitignore
+!.profile
+!.tmux.conf
+!initme.sh
